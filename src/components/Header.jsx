@@ -4,7 +4,7 @@ function Header() {
   return (
     <header>
       <h1>
-        <EmojiObjectsIcon fontSize="medium" /> Keeper
+        <EmojiObjectsIcon fontSize="medium" /> Keeper Note
       </h1>
     </header>
   );
